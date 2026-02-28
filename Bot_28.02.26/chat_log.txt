@@ -1,0 +1,3 @@
+[2026-02-28 12:24:28] USER: Погода в нн
+[2026-02-28 12:24:28] BOT: Ошибка API: You have not supplied an API Access Key. [Required format: access_key=YOUR_ACCESS_KEY]
+--------------------------------------------------
